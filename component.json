@@ -1,14 +1,16 @@
 {
   "name": "animate-css",
-  "repo": "bmcmahen/animate-css",
+  "repo": "vimond/animate-css",
   "description": "a jquery like api for animations, but for css",
-  "version": "0.0.1",
+  "remotes": [
+    "http://vimond:components@components.vimond.com"
+  ],
+  "version": "0.1.1",
   "keywords": [],
   "dependencies": {
     "component/classes": "1.2.4",
     "ecarter/css-emitter": "*",
-    "component/once": "*",
-    "eugenicsarchivesca/has-css-animations": "*"
+    "component/once": "*"
   },
   "development": {},
   "license": "MIT",
